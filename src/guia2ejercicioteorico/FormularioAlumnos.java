@@ -196,7 +196,7 @@ public class FormularioAlumnos extends javax.swing.JFrame {
     }//GEN-LAST:event_brBorrarActionPerformed
 
     private void rbMasculinoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rbMasculinoActionPerformed
-rbFemenino.setEnabled(false);        // TODO add your handling code here:
+        rbFemenino.setEnabled(false);        // TODO add your handling code here:
     }//GEN-LAST:event_rbMasculinoActionPerformed
 
     /**
